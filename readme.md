@@ -44,7 +44,7 @@ The particle trace doesn't tell us much, the flow is relatively smooth and remai
 After the simulation stabilizes, there is a periodic ripple in the drag and lift values. Definitely something not right going on.
 Lets change the angle of attack of the upper wing to be more streamlined.
 New Version:
-![enter image description here](https://s5.gifyu.com/images/result.gif)
+![enter image description here](https://s5.gifyu.com/images/resultde2e6662aff28b12.gif)
 Much more streamlined flow and lets take a look at the actual performance data.
 ![enter image description here](https://i.imgur.com/36S1EtV.png)
 As we can see there is no periodic ripple from turbulence. 
