@@ -1,6 +1,6 @@
 # Rear Wing for UTD FSAE Fall 2022
 
-Slow is smooth and smooth is fast is a great idiom, but might sound backwards when designing a race car. Using the CFD capabilities of the cloud platform SimScale and intelligent airfoil design, I develop a high performance rear wing for a  Formula SAE car.
+Using the CFD capabilities of the cloud platform SimScale and intelligent airfoil design, I develop a high performance rear wing for a  Formula SAE car.
 
 
 # Airfoil Design
