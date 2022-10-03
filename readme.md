@@ -1,6 +1,6 @@
 # Rear Wing for UTD FSAE Fall 2022
 
-Using the CFD capabilities of the cloud platform SimScale and intelligent airfoil design, I develop a high performance rear wing for a  Formula SAE car.
+Using the CFD capabilities of the cloud platform SimScale and intelligent airfoil design, we develop a high performance rear wing for a  Formula SAE car.
 
 
 # Airfoil Design
